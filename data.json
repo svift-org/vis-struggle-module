@@ -1,0 +1,13 @@
+{
+    "params":{
+      "dev":true
+    },
+    "vis":{
+      "type":"struggle"
+    },
+    "data":{
+      "columns":["Prozent"],
+      "types":["date","int"],
+      "data":[65]
+    }
+  }

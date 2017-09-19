@@ -1,0 +1,24 @@
+{
+  "name": "svift-vis-struggle",
+  "version": "1.0.0",
+  "description": "struggle module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jshint index.js",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@git@bitbucket.org:svift/vis-struggle-module.git"
+  },
+  "author": "hns",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "jshint": "^2.9.5",
+    "node-sass": "^4.5.3",
+    "svift-helper": "git+ssh://git@bitbucket.org:svift/helper-module.git",
+    "svift-vis": "git+ssh://git@bitbucket.org:svift/vis-module.git"
+  }
+}
